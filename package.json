@@ -1,0 +1,14 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "ByteBank é um projeto de banco criado no curso de POO da Alura.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "author": "Hebert Santana",
+  "license": "ISC",
+  "type": "module"
+  
+}
